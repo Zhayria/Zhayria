@@ -7,7 +7,7 @@
 
 ##  About Me
 
-I'm a computer science graduate actively developing skills in **cybersecurity**, **Python programming**, and **security awareness tools**. I enjoy building projects that bridge theory and real-world application — especially tools that raise awareness around social engineering and endpoint security.
+I'm a Computer Science Graduate actively developing skills in **Cybersecurity**, **Python Programming**, and **Security Awareness Tools**. I enjoy building projects that bridge theory and real-world application — especially tools that raise awareness around social engineering and endpoint security.
 
 I’m currently focused on expanding my cybersecurity knowledge through self-directed projects and hands-on labs.
 
