@@ -13,7 +13,7 @@ I’m currently focused on expanding my cybersecurity knowledge through self-dir
 
 ---
 
-## 🔐 Featured Projects
+## Featured Projects
 
 
 ---
