@@ -1,11 +1,12 @@
-#  Hi, I’m Zhayria Washington
 
- Computer Science Graduate |  Cybersecurity Enthusiast  
- Mobile Repair Tech @ CPR Cell Phone Repair | passionate about building tools that test and protect systems
+# Hi, I’m Zhayria Washington
+
+Computer Science Graduate | Cybersecurity Enthusiast  
+Mobile Repair Tech @ CPR Cell Phone Repair | passionate about building tools that test and protect systems
 
 ---
 
-##  About Me
+## About Me
 
 I'm a Computer Science Graduate actively developing skills in **Cybersecurity**, **Python Programming**, and **Security Awareness Tools**. I enjoy building projects that bridge theory and real-world application — especially tools that raise awareness around social engineering and endpoint security.
 
@@ -15,10 +16,17 @@ I’m currently focused on expanding my cybersecurity knowledge through self-dir
 
 ## Featured Projects
 
+### [VulnScanPro – Vulnerability Scanner](https://github.com/Zhayria/VulnScanPro)
+A Python-based vulnerability scanner that identifies open ports, grabs service banners, fingerprints the OS, and integrates CVE lookups using the Shodan API.
+
+- Multithreaded TCP port scanner with banner grabbing
+- OS detection via TTL analysis
+- CVE enumeration via Shodan (API key required)
+- Saves scan results as `.json` and `.txt` reports
+
+Tech: `Python` `Socket` `Shodan API` `ThreadPoolExecutor` `TTL Fingerprinting`
 
 ---
-
-## Featured Projects
 
 ### [Phishing Simulation Tool](https://github.com/Zhayria/Phishing_Campaign.git)
 A Flask-based internal tool that sends phishing emails to employees or lab users and logs interactions for security awareness training.
@@ -40,7 +48,7 @@ A macOS-compatible ethical keylogger built for cybersecurity research and Red Te
 - Built with modularity for clipboard, mic, and file handling
 - Runs stealthily as a daemon for persistence testing
 
- Tech: `Python` `pynput` `sounddevice` `pyautogui` `cryptography`
+Tech: `Python` `pynput` `sounddevice` `pyautogui` `cryptography`
 
 ---
 
@@ -55,9 +63,10 @@ A macOS-compatible ethical keylogger built for cybersecurity research and Red Te
 
 ## Connect With Me
 
-- Email: [zhayriaw80s@gmail.com](mailto:zhayriaw80@gmail.com)
+- Email: [zhayriaw80s@gmail.com](mailto:zhayriaw80s@gmail.com)
 - LinkedIn: [linkedin.com/in/zhayria-washington-2a2b86221](https://www.linkedin.com/in/zhayria-washington-2a2b86221)
 
 ---
 
 > “The best way to defend is to know how to attack.” — Ethical Hacker’s Creed
+
